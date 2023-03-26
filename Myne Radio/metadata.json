@@ -1,0 +1,11 @@
+{
+    "fm":69.2,
+	"displayName": "69.2 Myne Radio",
+	"volume": 1.0,
+	"customIcon": {
+		"inkAtlasPath": "base\\icon\\myneingameatlas.inkatlas",
+		"inkAtlasPart": "icon_part",
+		"useCustom": true
+	},
+	"icon": "UIIcon.Stealth"
+}
